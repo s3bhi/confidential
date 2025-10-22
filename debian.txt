@@ -1,3 +1,5 @@
 deb http://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
 deb http://security.debian.org/debian-security bookworm-security main contrib non-free non-free-firmware
 deb http://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
+
+https://github.com/MatSec21/Make-Your-Linux-Terminal-Look-Awesome/blob/main/Make%20Your%20Linux%20Terminal%20Look%20STUNNING%20in%205%20Minutes!%20.pdf
