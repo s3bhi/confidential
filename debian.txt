@@ -5,3 +5,7 @@ deb http://deb.debian.org/debian/ bookworm-updates main contrib non-free non-fre
 https://github.com/MatSec21/Make-Your-Linux-Terminal-Look-Awesome/blob/main/Make%20Your%20Linux%20Terminal%20Look%20STUNNING%20in%205%20Minutes!%20.pdf
 
 💻 Subhi’s Shell — Where rm -rf meets inner peace ☯️
+
+https://www.mediafire.com/file/auhuovn4mditq1o/background.png/file
+
+https://www.mediafire.com/file/eyqozdb48x1pcrj/background_ii.png/file
